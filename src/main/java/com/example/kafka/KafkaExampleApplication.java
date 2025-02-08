@@ -12,6 +12,7 @@ public class KafkaExampleApplication {
 		
 		System.out.println("hello");
 		System.out.println("second hello");
+		System.out.println("third hello");
 	}
 
 }
